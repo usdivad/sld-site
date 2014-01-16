@@ -40,14 +40,14 @@
 			}
 
 			#content {
-				min-width:900px;
-				max-height: 600px;
+				width: 75%;
+				/*max-height: 600px;*/
 				margin: 25 auto;
 				font-size: 250%;
 				text-align: center;
 				line-height: 170%;
 				margin-top: -30px;
-				overflow: auto;
+				/*overflow: auto;*/
 				background-color: none;
 			}
 
@@ -57,7 +57,7 @@
 				bottom: 100;*/
 				margin-top: -30px;
 				font-size: 90%;
-				padding-bottom: 175px;
+				padding-bottom: 400px;
 			}
 
 			/*width setting margin-left = content width/2*/
@@ -109,9 +109,9 @@
 				background: url("bottom_fade.png") top center no-repeat;
 			}*/
 
-			/*background and body, adapted from http://css-tricks.com/perfect-full-page-background-image/*/
+			/*background and body, adapted from trix*/
 			html { 
-			  background: url(logo.jpg) no-repeat center center fixed; 
+			  background: url(logo_66.jpg) no-repeat center center fixed; 
 			  -webkit-background-size: cover;
 			  -moz-background-size: cover;
 			  -o-background-size: cover;
